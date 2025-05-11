@@ -72,7 +72,12 @@ I’m a **Ph.D. researcher in Information Engineering** at the **University of S
   Real-time activity tracking using C# with file, browser, and keystroke logging.
 
 ---
-
+## 🧰 Tools & Technologies
+- **Languages**: Python, C++, C, Assembly
+- **Libraries**: TensorFlow, PyTorch, Scikit-learn, Keras
+- **Databases**: SQLite, MongoDB, Firebase, SQL Server
+- **Other**: MATLAB, React, Arduino, Flask, Streamlit
+---
 ## 👨‍🏫 **Teaching Experience**
 
 - **Courses Taught**: *OOP, Data Structures, OS, Data Science, Digital Logic*  

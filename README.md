@@ -1,110 +1,127 @@
-# 👋 Hi, I’m Zia Ur Rehman
+👋 Hi, I’m Zia Ur Rehman
+I’m a Ph.D. researcher in Information Engineering at the University of Salerno, Italy, focusing on machine learning, wearable computing, and situation-aware systems. I’m currently working on building intelligent, context-aware solutions for real-time health and behavior monitoring using multimodal sensor data.
 
-🎓 **Ph.D. Researcher** in Information Engineering at the University of Salerno, Italy  
-🔬 Focused on: Machine Learning, Wearable Computing, Federated Learning, Context-Aware Systems, and Health Analytics  
-📍 Currently: Visiting Researcher at Western Norway University of Applied Sciences
+🔬 Present Roles
+🎓 Ph.D. Student, University of Salerno, Italy (2022–2025)
+Working on a situation-aware intelligent system for the identification and prediction of real-life situations using sensor-context fusion and cognitive modeling.
 
----
+🌍 Visiting Researcher, Western Norway University of Applied Sciences (2024–2025)
+Collaborating with the Health Informatics Group to extend wearable-based behavioral modeling for healthcare applications.
 
-## 🧠 Research Interests
-- Context-aware & situation-aware intelligent systems
-- Human activity & behavior recognition using wearable sensors
-- Federated and decentralized learning for privacy-preserving applications
-- Explainable AI, Generative AI, and Deep Learning in smart health
-- Multimodal sensor fusion and knowledge-driven context modeling
+🤖 Freelance Data Scientist
+Building ML models for real-time applications in healthcare, user behavior analysis, and smart sensing using platforms like PyTorch and TensorFlow.
 
----
+🎓 Education
+Degree	Institute	Duration
+Ph.D. in Information Engineering	University of Salerno, Italy	2022–2025
+MS in Computer Science	UET Taxila, Pakistan	2019–2021
+BS in Software Engineering	COMSATS University, Islamabad	2014–2018
 
-## 📚 Academic Background
-- **Ph.D. in Information Engineering**  
-  *University of Salerno, Italy (2022–2025)*  
-  _Thesis: Situation-aware Intelligent System for Real-Time Situation Prediction_
+🧠 Research Areas
+Situation-Aware Wearable Computing
 
-- **M.S. in Computer Science**  
-  *UET Taxila, Pakistan*  
-  _Thesis: Predicting ODI cricket match outcomes using ML_
+Health Analytics with Multimodal Sensors
 
-- **B.S. in Software Engineering**  
-  *COMSATS University Islamabad*  
-  _FYP: System Monitoring Desktop App (C#)_
+Federated Learning & Privacy-Preserving AI
 
----
+Explainable AI for Transparent Inference
 
-## 💼 Professional Experience
-- **Visiting Researcher**, HVL Norway (2024–2025)
-- **Ph.D. Researcher**, DIEM Lab, University of Salerno (2022–Present)
-- **Freelance Data Scientist**, Various Platforms (2022–Present)
-- **Lecturer**, Air University Islamabad (2021–2023)
-- **Lab Instructor**, FAST-NUCES Islamabad (2019–2021)
-- **Teaching Assistant**, COMSATS University (2017–2018)
+Cognitive Feedback Loops in ML Systems
 
----
+Generative AI for Synthetic Data Generation
 
-## 🧪 Featured Publications
-- *Situation identification in smart wearable computing systems*, Information Fusion (2024)
-- *A data-driven approach for context definition in SA-WCS*, IEEE CASE (2024)
-- *Sequential Pattern Mining for SA-HAR Projection*, IEEE SMC (2024)
-- *Predicting cricket match outcomes using ML*, Manchester Journal of AI & Applied Sciences
+📝 Publications
+Situation identification in smart wearable computing systems, Information Fusion, 2024
 
----
+Context definition in SA-WCS, IEEE CASE, 2024
 
-## 🧰 Tools & Technologies
-- **Languages**: Python, C++, C, Assembly
-- **Libraries**: TensorFlow, PyTorch, Scikit-learn, Keras
-- **Databases**: SQLite, MongoDB, Firebase, SQL Server
-- **Other**: MATLAB, React, Arduino, Flask, Streamlit
+Sequential Pattern Mining for SA-HAR, IEEE SMC, 2024
 
----
+ODI Cricket Prediction using ML, MJAIAS, 2022
 
-## 🎓 Courses & Certifications
-- Deep Learning Specialization (Coursera)
-- Federated Learning (Coursera)
-- Generative AI (Kaggle)
-- Explainable AI (Coursera)
-- Scientific Writing & Publication
-- Online Teaching & EdTech Tools
+Adaptive Cognitive Feedback Loop in SA-WCS, ICHMS 2024 (Accepted)
 
----
+Others submitted: ADHD recognition, situation-aware reviews
 
-## 👨‍🏫 Teaching Experience
-- **Courses Taught**:
-  - Object-Oriented Programming
-  - Full-stack Web Development
-  - Operating Systems, Data Structures
-  - Data Science, Digital Logic Design
+📦 Selected Projects
+Situation-Aware Federated Learning Framework
+Developed a personalized federated learning approach for multi-situation recognition using graph-based smoothness (GTVMin) to improve personalization and privacy.
 
-- **Final Year Projects Supervised**:
-  - AR-based learning apps
-  - AI-powered surveillance systems
-  - COVID SOP detection & Smart Health Apps
+ADHD Recognition System using Wearables
+Proposed a smart health monitoring system integrating HRV and activity signals with temporal granulation to support clinicians in ADHD assessment.
 
----
+System Monitoring Desktop App (Bachelor FYP)
+Built a Windows-based system for monitoring employee/child activity with logging, screenshot capture, and keylogging.
 
-## 🧑‍🔬 Research Involvement & Groups
-- Health Informatics Group – HVL Norway
-- Knowledge Management & Smart Systems Lab – University of Salerno
-- Data Science Research Group – Air University
+👨‍🏫 Teaching Experience
+Courses taught: OOP, Data Structures, Operating Systems, Data Science
 
----
+Final year projects supervised:
 
-## 🏆 Awards & Achievements
-- 6th Position – M.S. CS, UET Taxila (2021)
-- 4th Position – B.S. Software Engineering, COMSATS (2018)
-- Reviewer for IEEE SMC, ICOSST, EUROCON, and Springer journals
+Smart surveillance
 
----
+COVID SOP detection
 
-## 🌍 Languages
-English, Arabic, Italian, French, Urdu  
-📜 English Proficiency Certified
+AR learning apps
 
----
+Blood bank using AI
 
-## 📫 Contact Me
-- 📧 Email: zrehman@unisa.it | rajazia96@gmail.com  
-- 🌐 [University Profile](https://rubrica.unisa.it/persone?matricola=062073)  
-- 💼 LinkedIn / GitHub: _Add your links here_
+Administrative Roles:
 
----
+FYP Coordinator
 
-> *“Building intelligent, personalized, and privacy-preserving AI systems for real-world impact.”*
+Admissions & Transfer Focal Person
+
+Job Fair Organizer
+
+🎓 Certifications & Trainings
+Deep Learning Specialization (Coursera)
+
+Federated Learning (Coursera)
+
+Explainable AI (Google & BISS-23)
+
+Generative AI (Kaggle)
+
+Large Language Models and Agent Systems
+
+Scientific Writing & Online Teaching Courses
+
+🏆 Awards
+6th Position in MS CS (UET Taxila)
+
+4th Position in BS SE (COMSATS)
+
+Best Cricket Player Certificate (2019)
+
+🧪 Reviewer Roles
+IEEE SMC, IEEE EUROCON, ICOSST
+
+Springer: IoT, Smart Cities, Mobile Networks
+
+Elsevier: Digital Communication & Networks
+
+TALLIP, Human-Machine Systems
+
+💻 Skills
+Languages: Python, C++, Assembly, C
+
+Frameworks: TensorFlow, Keras, PyTorch
+
+Databases: SQLite, MongoDB, Firebase
+
+Tools: Arduino, MATLAB, React, Streamlit
+
+🌐 Languages
+English | Urdu | Arabic | Italian | French
+Certified: English Proficiency
+
+📫 Connect with Me
+📧 Email: zrehman@unisa.it | rajazia96@gmail.com
+
+🔗 University Profile
+
+🔗 GitHub: [your GitHub profile]
+
+🔗 LinkedIn: [your LinkedIn profile]
+

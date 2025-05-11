@@ -79,9 +79,20 @@ I’m a **Ph.D. researcher in Information Engineering** at the **University of S
 - **Generative AI** (Kaggle)  
 - **LLM Agents & Scientific Publishing**  
 - **Online Teaching & EdTech**
+- **Summer Schools**: Climate AI 2024, Wearables, Neuro-Symbolic AI, Sensor Fusion
+
+
 
 ---
+## 🏆 **SEMESTER PROJECTS**
+-	Social media system in C++ 
+-	Screen slider in Java
+-	Army Management system in C++ using file handling
+-	Airplane reservation using SQL server C++
+-	System Monitoring Desktop App in C#
+-	Cricket Prediction 
 
+---
 ## 🏆 **Awards**
 
 - 🏅 *6th Position in M.S.* (UET Taxila, 2021)  
@@ -105,7 +116,20 @@ I’m a **Ph.D. researcher in Information Engineering** at the **University of S
 - **Tools**: *MATLAB, Arduino, React, Streamlit, Flask*
 
 ---
+## 🌐**ADMINISTRATIVE WORK**
+- Focal person regarding BS or MS admissions in Air University 
+-	Focal person regarding sports related queries
+-	Focal person regarding transfer cases to Air University
+-	Working as a Final year project coordinator at Air and Fast University 
+-	Organizer of a Job Fair committee       
 
+---
+## 🧑‍🔬 Research Involvement & Groups
+- Health Informatics Group – HVL Norway
+- Knowledge Management & Smart Systems Lab – University of Salerno
+- Data Science Research Group – Air University
+
+---
 ## 🌐 **Languages**
 
 English | Urdu | Arabic | Italian | French  

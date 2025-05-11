@@ -26,6 +26,16 @@ I’m a **Ph.D. researcher in Information Engineering** at the **University of S
 | BS in Software Engineering       | COMSATS University, Islamabad      | 2014–2018    |
 
 ---
+## 💼 Professional Experience
+- **Visiting Researcher**, HVL Norway (2024–2025)
+- **Ph.D. Researcher**, DIEM Lab, University of Salerno (2022–Present)
+- **Freelance Data Scientist**, Various Platforms (2022–Present)
+- **Lecturer**, Air University Islamabad (2021–2023)
+- **Lab Instructor**, FAST-NUCES Islamabad (2019–2021)
+- **Teaching Assistant**, COMSATS University (2017–2018)
+
+
+---
 
 ## 🧠 **Research Areas**
 
@@ -141,8 +151,7 @@ English | Urdu | Arabic | Italian | French
 
 - 📧 **Email**: zrehman@unisa.it | rajazia96@gmail.com  
 - 🌍 **University Profile**: [Click here](https://rubrica.unisa.it/persone?matricola=062073)  
-- 🔗 **GitHub**: *[Add your GitHub URL here]*  
-- 🔗 **LinkedIn**: *[Add your LinkedIn URL here]*
+  
 
 ---
 
